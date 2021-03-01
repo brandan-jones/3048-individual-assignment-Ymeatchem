@@ -53,7 +53,7 @@ class CountryUnitTest {
     }
 
     private fun givenViewModelIsInitialized() {
-
+        mvm
     }
 
     private fun whenJSONDataAreReadAndParsed() {
